@@ -4,6 +4,7 @@ A simple NodeMCU-based project, showcasing PlatformIO, OLED display, rotary enco
 and sound generator usage.
 
 A silly video:
+
 [![Hello World](https://img.youtube.com/vi/_DtdpNvrGD8/0.jpg)](https://youtu.be/_DtdpNvrGD8)
 
 ## Requirements
